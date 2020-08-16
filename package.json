@@ -1,0 +1,20 @@
+{
+  "name": "node-learning",
+  "version": "1.0.0",
+  "description": "Node JS learning and testing project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Dmitrii Chistyakov <chist.dmitrii@gmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
